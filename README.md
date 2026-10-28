@@ -66,6 +66,7 @@ A curated list of **Claude Skills**, **Claude Code plugins**, marketplaces and t
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) — Plugin that shows context usage and activity live. *(★ 28k · updated 2026-09-19 · MIT)*
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — Desktop switcher for Claude Code / Codex providers, keys and base URLs. *(★ 134k · updated 2026-09-22 · MIT)*
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) — Use Codex from inside Claude Code for reviews and delegation. *(★ 33k · updated 2026-07-08 · Apache-2.0)*
+- [777genius/agent-notifications](https://github.com/777genius/agent-notifications) — Desktop and webhook alerts for Claude Code, Codex CLI, OpenCode, Gemini CLI, Cursor CLI and Qoder, with sounds and click-to-focus for Claude/Codex. *(GPL-3.0-or-later)*
 
 ## Install a skill
 
