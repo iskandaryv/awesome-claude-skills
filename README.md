@@ -55,6 +55,8 @@ A curated list of **Claude Skills**, **Claude Code plugins**, marketplaces and t
 - [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) — E-commerce visual copywriting SOP (Chinese). *(★ 800 · updated 2026-09-17 · MIT)*
 - [jzOcb/writing-style-skill](https://github.com/jzOcb/writing-style-skill) — Writing-style skill template with auto-learning. *(★ 270 · updated 2026-03-24)*
 
+- [YannisKiefer/harvey-specter](https://github.com/YannisKiefer/harvey-specter) — Negotiation preparation and relationship-aware conversation drafts, tested in Codex and packaged as a portable `SKILL.md`.
+
 ## Behaviour and configuration
 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md that changes how Claude Code behaves, derived from Karpathy's guidance. *(★ 215k · updated 2026-04-20)*
