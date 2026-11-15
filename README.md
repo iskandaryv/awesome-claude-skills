@@ -47,6 +47,7 @@ A curated list of **Claude Skills**, **Claude Code plugins**, marketplaces and t
 
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — Marketing: CRO, copywriting, SEO, analytics — for Claude Code and other agents. *(★ 51k · updated 2026-09-05 · MIT)*
 - [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) — Game development skills: Godot, Unity, Unreal, Phaser. *(★ 1k · updated 2026-09-10 · Apache-2.0)*
+- [waynehamadi/datacircle](https://github.com/waynehamadi/datacircle) — Find the best GTM APIs: every plan of every GTM API as one file to query, from [datacircle.dev](https://datacircle.dev). *(Claude Code, Cursor)*
 - [microsoft/power-platform-skills](https://github.com/microsoft/power-platform-skills) — Microsoft's plugin marketplace for Power Platform development. *(★ 908 · updated 2026-09-22 · MIT)*
 - [data-goblin/power-bi-agentic-development](https://github.com/data-goblin/power-bi-agentic-development) — Power BI skills and agents. *(★ 923 · updated 2026-09-19 · GPL-3.0)*
 - [quant-sentiment-ai/claude-equity-research](https://github.com/quant-sentiment-ai/claude-equity-research) — Equity-research plugin. *(★ 715 · updated 2026-09-22 · MIT)*
