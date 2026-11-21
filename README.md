@@ -54,6 +54,7 @@ A curated list of **Claude Skills**, **Claude Code plugins**, marketplaces and t
 - [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) — OSINT and recon skills, including secret-pattern detection. *(★ 3k · updated 2026-08-30 · MIT)*
 - [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) — E-commerce visual copywriting SOP (Chinese). *(★ 800 · updated 2026-09-17 · MIT)*
 - [jzOcb/writing-style-skill](https://github.com/jzOcb/writing-style-skill) — Writing-style skill template with auto-learning. *(★ 270 · updated 2026-03-24)*
+- [maddyzohadi/venturine](https://github.com/maddyzohadi/venturine) — Startup validation, market sizing, competitor and unit-economics skills and agents for Claude Code, with Evidence Labels and Calculation Receipts.
 
 ## Behaviour and configuration
 
