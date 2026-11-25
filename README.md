@@ -37,6 +37,7 @@ A curated list of **Claude Skills**, **Claude Code plugins**, marketplaces and t
 - [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) — Software-engineering workflow skills: git automation, reviews, releases. *(★ 676 · updated 2026-07-25 · Apache-2.0)*
 - [ananddtyagi/cc-marketplace](https://github.com/ananddtyagi/cc-marketplace) — A minimal marketplace repo — useful as a template for hosting your own. *(★ 689 · updated 2026-01-18)*
 - [mxyhi/ok-skills](https://github.com/mxyhi/ok-skills) — Curated coding-agent skills plus AGENTS.md playbooks. *(★ 490 · updated 2026-09-20 · Apache-2.0)*
+- [inhotel-io/govisit-toolkit](https://github.com/inhotel-io/govisit-toolkit) — 22 portable, read-only travel discovery and content-retrieval skills for Claude Code, Codex, Cursor and other compatible agents. *(MIT)*
 
 ## Design and frontend
 
