@@ -54,6 +54,7 @@ A curated list of **Claude Skills**, **Claude Code plugins**, marketplaces and t
 - [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) — OSINT and recon skills, including secret-pattern detection. *(★ 3k · updated 2026-08-30 · MIT)*
 - [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) — E-commerce visual copywriting SOP (Chinese). *(★ 800 · updated 2026-09-17 · MIT)*
 - [jzOcb/writing-style-skill](https://github.com/jzOcb/writing-style-skill) — Writing-style skill template with auto-learning. *(★ 270 · updated 2026-03-24)*
+- [Qonvert-Marketing-AI/qonvert-marketing-skills](https://github.com/Qonvert-Marketing-AI/qonvert-marketing-skills) — Google Ads campaign review, tracking audits, and Qonvert Connect setup for Claude Code and Codex. *(MIT)*
 
 ## Behaviour and configuration
 
