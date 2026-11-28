@@ -34,6 +34,7 @@ A curated list of **Claude Skills**, **Claude Code plugins**, marketplaces and t
 - [obra/superpowers-marketplace](https://github.com/obra/superpowers-marketplace) — Curated plugin marketplace. *(★ 1k · updated 2026-09-08 · MIT)*
 - [numman-ali/n-skills](https://github.com/numman-ali/n-skills) — Curated marketplace that also targets Codex and other agents. *(★ 1k · updated 2026-09-12 · Apache-2.0)*
 - [fivetaku/gptaku_plugins](https://github.com/fivetaku/gptaku_plugins) — Plugin marketplace aimed at non-developers becoming AI-native. *(★ 1k · updated 2026-09-08 · MIT)*
+- [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill) — Skill collection that plans work before coding and verifies it with tests and formal checks, for Claude Code, Cursor and Codex. *(★ 763 · updated 2026-11-28 · MIT)*
 - [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) — Software-engineering workflow skills: git automation, reviews, releases. *(★ 676 · updated 2026-07-25 · Apache-2.0)*
 - [ananddtyagi/cc-marketplace](https://github.com/ananddtyagi/cc-marketplace) — A minimal marketplace repo — useful as a template for hosting your own. *(★ 689 · updated 2026-01-18)*
 - [mxyhi/ok-skills](https://github.com/mxyhi/ok-skills) — Curated coding-agent skills plus AGENTS.md playbooks. *(★ 490 · updated 2026-09-20 · Apache-2.0)*
